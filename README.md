@@ -266,7 +266,6 @@ If you're interested in collaborating, providing compute, or have questions — 
 - FineWeb-Edu dataset by HuggingFace
 - My Model https://huggingface.co/zerdovzad/Nord-AI/
 - Thank this person for the visual presentation https://mnbnkr.github.io/-Project-Nord-Spiking-Neural-Network-Language-Model/
-- https://github.com/mnbnkr
 - Thank this person for the visual presentation https://github.com/mnbnkr
 - Visual presentation https://mnbnkr.github.io/-Project-Nord-Spiking-Neural-Network-Language-Model/
 - My Wiki https://github.com/gtausa197-svg/-Project-Nord-Spiking-Neural-Network-Language-Model/wiki
